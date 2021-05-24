@@ -4,6 +4,10 @@
         "*.js": "javascriptreact",
         "iostream": "cpp",
         "*.tcc": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "sstream": "cpp",
+        "ostream": "cpp"
     }
 }
