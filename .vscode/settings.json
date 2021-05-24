@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascriptreact",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp"
+    }
+}
